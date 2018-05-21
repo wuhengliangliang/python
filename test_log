@@ -1,0 +1,15 @@
+DEBUG:root:hello
+INFO:root:info
+WARNING:root:warning
+ERROR:root:error
+nfo
+2018-04-06 12:26:34,148 warning
+2018-04-06 12:26:34,149 error
+2018-04-06 12:28:03,535 warning
+2018-04-06 12:28:03,536 error
+2018-04-06 12:33:07,049 warning
+2018-04-06 12:33:07,050 error
+2018-04-06 12:33:20,783 warning
+2018-04-06 12:33:20,783 error
+2018-04-06 12:33:25,210 warning
+2018-04-06 12:33:25,210 error
